@@ -1,6 +1,6 @@
 [{
 	"titulo": "Smoothies",
-	"descripcion corta": "Cómo hacer smoothies de frutas",
+	"descripcioncorta": "Cómo hacer smoothies de frutas",
 	"descripcion": "Cómo hacer smoothies de frutas. Ya estamos metidos de pleno en los calores de Julio y lo que pide el cuerpo son ensaladas, comidas ligeras, sopas frías y recetas de bebidas.",
 	"ingredientes": ["600 g. de naranja","1 mango maduro y grande","3 mandarinas","Frambuesas","La ralladura de un poquito de jengibre"],
 	"imagen": "Smoothies.jpg",
@@ -13,7 +13,7 @@
 	"Ponemos la tapa al vaso batidor. Batimos a máxima potencia hasta que todo esté bien triturado y quede muy suave."]},
 	{
 	"titulo": "Smoothies",
-	"descripcion corta": "Cómo hacer smoothies de frutas",
+	"descripcioncorta": "Cómo hacer smoothies de frutas",
 	"descripcion": "Cómo hacer smoothies de frutas. Ya estamos metidos de pleno en los calores de Julio y lo que pide el cuerpo son ensaladas, comidas ligeras, sopas frías y recetas de bebidas.",
 	"ingredientes": ["600 g. de naranja","1 mango maduro y grande","3 mandarinas","Frambuesas","La ralladura de un poquito de jengibre"],
 	"imagen": "Smoothies.jpg",
@@ -26,7 +26,7 @@
 	"Ponemos la tapa al vaso batidor. Batimos a máxima potencia hasta que todo esté bien triturado y quede muy suave."]},
 	{
 	"titulo": "Smoothies",
-	"descripcion corta": "Cómo hacer smoothies de frutas",
+	"descripcioncorta": "Cómo hacer smoothies de frutas",
 	"descripcion": "Cómo hacer smoothies de frutas. Ya estamos metidos de pleno en los calores de Julio y lo que pide el cuerpo son ensaladas, comidas ligeras, sopas frías y recetas de bebidas.",
 	"ingredientes": ["600 g. de naranja","1 mango maduro y grande","3 mandarinas","Frambuesas","La ralladura de un poquito de jengibre"],
 	"imagen": "Smoothies.jpg",
